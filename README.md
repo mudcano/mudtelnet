@@ -17,7 +17,7 @@
 
 ## TERMS AND CONDITIONS
 
-MIT license. In short: go nuts, but give credit where credit is due.
+We are LGPL!
 
 Please see the included LICENSE.txt for the legalese.
 

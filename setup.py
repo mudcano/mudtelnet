@@ -35,7 +35,7 @@ setup(
     version="0.8.0",
     author="Volund",
     maintainer="Volund",
-    url="https://github.com/volundmush/mudtelnet-python",
+    url="https://github.com/mudcano/mudtelnet",
     description="Simple Telnet library optimized for the MUD subset of Telnet.",
     license="MIT",
     long_description=long_description,
@@ -54,8 +54,7 @@ setup(
     ],
     python_requires=">=3.5",
     project_urls={
-        "Source": "https://github.com/volundmush/mudtelnet-python",
-        "Issue tracker": "https://github.com/volundmush/mudtelnet-python/issues",
-        "Patreon": "https://www.patreon.com/volund",
+        "Source": "https://github.com/mudcano/mudtelnet",
+        "Issue tracker": "https://github.com/mudcano/mudtelnet/issues",
     },
 )
